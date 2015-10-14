@@ -1,0 +1,20 @@
+cmd: vagrant
+opt:
+- --version
+- --help
+sub:
+- box
+- destroy
+- halt
+- help
+- init
+- package
+- plugin
+- provision
+- reload
+- resume
+- ssh
+- ssh-config
+- status
+- suspend
+- up
