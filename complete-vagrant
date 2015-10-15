@@ -1,18 +1,21 @@
-+ complete-shell v0.0.1
-+ command vagrant
-+ subcommands \
-  box \
-  destroy \
-  halt \
-  help \
-  init \
-  package \
-  plugin \
-  provision \
-  reload \
-  resume \
-  ssh \
-  ssh-config \
-  status \
-  suspend \
-  up
+.complete-shell v0.0.1
+
+.cmd vagrant
+
+.sub box
+.sub destroy
+.sub halt
+.sub help
+.sub init
+.sub package
+.sub plugin
+.sub provision
+.sub reload
+.sub resume
+.sub ssh
+.sub ssh-config
+.sub status
+.sub suspend
+.sub up
+
+.end
